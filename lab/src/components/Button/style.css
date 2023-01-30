@@ -1,0 +1,14 @@
+.big-btn {
+    width: 8em;
+    height: 3.5em;
+    border: 1px solid rgb(0, 0, 105);
+    font-weight: 700;
+    font-size: 1.1em;
+    border-radius: 5px;
+    color:rgb(0, 0, 105);
+    background-color: white;
+}
+
+.footer {
+    padding: 5vh 7vw;
+}

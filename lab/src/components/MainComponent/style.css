@@ -1,0 +1,15 @@
+.main-content {
+    color: white;
+    margin: 5vh 7vw;
+    width: 100%;
+}
+
+.title {
+    font-size: 4.5em;
+    width: 40%;
+}
+
+.description {
+    font-size: 1.1em;
+    width: 40%;
+}
