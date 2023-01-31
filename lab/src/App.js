@@ -2,7 +2,7 @@ import { Button } from "../src/components/Button";
 import { Icons } from "../src/components/Icons";
 import { MainComponent } from "./components/MainComponent";
 import { Advantages } from "./components/Advantages";
-import styles from "./style.css";
+import "./style.css";
 
 function App() {
   return (
@@ -17,6 +17,6 @@ function App() {
       </section>
     </>
   );
-}
+};
 
 export default App;
