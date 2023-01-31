@@ -1,4 +1,4 @@
-.main-content {
+.mainContent {
     color: white;
     margin: 5vh 7vw;
     width: 100%;
@@ -14,10 +14,4 @@
     width: 40%;
 }
 
-#advantages {
-    display: flex;
-    flex-flow: row nowrap;
-    align-items: center;
-    justify-content: space-evenly;
-    padding: 5vh 0;
-}
+

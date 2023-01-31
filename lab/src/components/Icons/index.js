@@ -1,12 +1,12 @@
 import ironhackLogoXs from "../../images/ironhack-logo-xs.png";
 import menuTopXs from "../../images/menu-top-xs.png";
-import style from "./style.css"
+import styles from "./style.module.css"
 
 export function Icons () {
     return (
-        <header className="header">
-          <img src={ironhackLogoXs} alt="ironhack-logo" className="icon" />
-          <img src={menuTopXs} alt="menu-icon" className="small-icon" />
+        <header className={styles.header}>
+          <img src={ironhackLogoXs} alt="ironhack-logo" className={styles.icon} />
+          <img src={menuTopXs} alt="menu-icon" className={styles.smallIcon} />
         </header>
     )
 }

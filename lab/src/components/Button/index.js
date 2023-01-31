@@ -1,9 +1,9 @@
-import style from "./style.css";
+import styles from "./style.module.css";
 
 export function Button() {
     return (
-        <footer className="footer">
-          <button className="big-btn">Awesome!</button>
+        <footer className={styles.footer}>
+          <button className={styles.bigBtn}>Awesome!</button>
         </footer>
     );
 };
