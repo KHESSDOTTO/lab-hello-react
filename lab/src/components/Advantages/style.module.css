@@ -1,0 +1,22 @@
+.articleTitle {
+    font-size: 1.5em;
+    margin: 3vh 0 0;
+}
+
+.grayText {
+    color: gray;
+    width: 90%;
+}
+
+.container {
+    width: 15%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.iconImage {
+    width: 50%;
+}
+

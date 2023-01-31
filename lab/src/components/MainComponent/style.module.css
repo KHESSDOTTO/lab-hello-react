@@ -13,3 +13,11 @@
     font-size: 1.1em;
     width: 40%;
 }
+
+#advantages {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 5vh 0;
+}

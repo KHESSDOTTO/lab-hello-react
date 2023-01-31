@@ -2,12 +2,12 @@ import { Button } from "../src/components/Button";
 import { Icons } from "../src/components/Icons";
 import { MainComponent } from "./components/MainComponent";
 import { Advantages } from "./components/Advantages";
-import style from "./style.css";
+import styles from "./style.css";
 
 function App() {
   return (
     <>
-      <section className="App" id="start-page">
+      <section className="App" id="startPage">
         <Icons/>
         <MainComponent/>
         <Button/>
